@@ -29,7 +29,7 @@ dependencies {
     implementation 'org.terasoluna.gfw:terasoluna-gfw-jodatime:5.7.1.RELEASE'
     
     // This dependency implements lecture management system
-    implementation 'com.github.DeeMac98:Lecture-Management-System-App:v0.2.3'
+    implementation 'com.github.DeeMac98:Lecture-Management-System-App:v0.2.5'
 }
 
 application {
